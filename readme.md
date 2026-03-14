@@ -95,17 +95,7 @@ python3 main.py
 - ❌ **−5 Points** for each bullet missed
     
 - 🏆 High score is stored in `Assets/Data/high_score.txt`
-    
 
----
-
-## 🖼️ Screenshots
-
-![[Screenshot from 2025-10-13 00-32-00.png]]
-
-![[Screenshot from 2025-10-13 00-32-09.png]]
-
-![[Screenshot from 2025-10-13 00-33-46.png]]
 
 ---
 
